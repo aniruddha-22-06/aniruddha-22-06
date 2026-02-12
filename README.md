@@ -14,11 +14,9 @@
 - Machine Learning
 - Flask / FastAPI
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aniruddha;Computer+Science+Student;2nd+Year+Undergraduate;Learning+Python; Learning+Data+Structures+and+Algorithms;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aniruddha;Computer+Science+Student;2nd+Year+Undergraduate;Learning+Python;Learning+Data+Structures+and+Algorithms;Future+Software+Engineer" />
 </p>
----
----
----
+
 
 # 🧑‍💻 Aniruddha's Developer Portfolio
 
