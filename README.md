@@ -47,7 +47,6 @@ Become a Software / AI Engineer
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux">
 </p>
 
 ---
