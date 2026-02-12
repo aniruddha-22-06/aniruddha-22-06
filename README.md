@@ -29,7 +29,6 @@
 </p>
 
 
-# 🧑‍💻 Aniruddha's Developer Portfolio
 
 ## 🧠 About Me
 
