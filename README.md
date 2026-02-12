@@ -17,38 +17,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aniruddha;Computer+Science+Student;2nd+Year+Undergraduate;Learning+Python;Learning+Data+Structures+and+Algorithms;Future+Software+Engineer" />
 </p>
 
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science Student
-* 📚 Currently in 2nd Year
-* 💻 Learning **Python** and **DSA**
-* 🚀 Improving problem-solving skills
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniruddha-22-06&show_icons=true&theme=tokyonight" height="160">
-</p>
-
----
-
----
-
 # 🧑‍💻 Aniruddha's Developer Portfolio
 
 ## 🧠 About Me
